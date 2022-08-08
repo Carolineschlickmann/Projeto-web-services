@@ -15,7 +15,7 @@ Utilizei para ambiente teste:
  Apache tomcat;
  Maven;
  Banco de dados H2 em memória;
- Postaman para testar as requisições;
+ Postman para testar as requisições;
 
 Ambiente de produção:
 
